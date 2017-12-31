@@ -9,10 +9,19 @@
   "author": "Prabhu",
   "license": "ISC",
   "dependencies": {
+    "@angular/cli": "^1.6.3",
     "angular": "^1.6.8",
+    "angular-datatables": "^5.0.0",
     "angular-ui-router": "^1.0.3",
     "bootstrap": "^3.3.7",
+    "datatables.net": "^1.10.16",
+    "datatables.net-dt": "^1.10.16",
     "express": "^4.16.2",
+    "jquery": "^3.2.1",
     "mongoose": "^4.13.7"
+  },
+  "devDependencies": {
+    "@types/datatables.net": "^1.10.8",
+    "@types/jquery": "^3.2.17"
   }
 }
